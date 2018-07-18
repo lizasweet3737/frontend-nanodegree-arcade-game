@@ -9,4 +9,5 @@ To win the game, the player must navigate to the the water using the arrow keys.
 # How to run the game
 
 git clone https://github.com/lizasweet3737/frontend-nanodegree-arcade-game.git
+
 open index.html
