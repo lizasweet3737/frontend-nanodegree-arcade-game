@@ -41,6 +41,7 @@ class Player extends Entity {
         if(this.isOutOfBOundsY && !this.moving){  //if player reaches water, reloads game
             alert("Congratulations! You won! Press ok to restart.");
             location.reload();
+            this.reset();
         }
     }
 
